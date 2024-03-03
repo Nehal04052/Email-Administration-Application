@@ -45,8 +45,7 @@ Follow the on-screen prompts to create and manage email accounts.
 
   View and update email account details, including mailbox capacity, alternate email, and password.
 
-# Contributing
-  If you'd like to contribute to the Email Administration Application, follow these steps:
+# If you'd like to contribute to the Email Administration Application, follow these steps:
 
     1. Fork the repository.
     2. Create a new branch for your feature or improvement.
