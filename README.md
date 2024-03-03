@@ -52,7 +52,7 @@ Follow the on-screen prompts to create and manage email accounts.
     3. Implement your changes.
     5. Submit a pull request.
 
-# Snapshot
+# Snapshots
 ![image](https://github.com/Nehal04052/Email-Administration-Application/assets/126107576/c73ccf2a-51e0-4494-9e3c-8ac61c36603f)
 ![image](https://github.com/Nehal04052/Email-Administration-Application/assets/126107576/f2c6e41b-e314-405a-b3ed-e2961aa620af)
 ![image](https://github.com/Nehal04052/Email-Administration-Application/assets/126107576/635eafd7-9e92-404e-983f-a9e3d4d40110)
